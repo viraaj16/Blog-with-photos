@@ -1,12 +1,8 @@
 img{
     width: 450px;
-    text-align: center;
+    height:450px;
 }
 body{
     text-align: center;
     background-color: antiquewhite;
-}
-#3{
-width: 450px;
-    height: 400px;
 }
